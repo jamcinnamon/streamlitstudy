@@ -2,3 +2,6 @@ pandas
 numpy
 streamlit
 bs4
+time
+seaborn
+matplotlib.pyplot
